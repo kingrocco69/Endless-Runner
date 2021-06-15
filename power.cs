@@ -37,7 +37,7 @@ public class power : MonoBehaviour
             incr.timeBetweenSpawn=2;
             
              yield return new WaitForSeconds(5);
-             Debug.Log("hello");
+           
             incr.timeBetweenSpawn=1;
                 
                 
